@@ -1,0 +1,15 @@
+-- How many records in this table
+
+SELECT COUNT(*) AS row count FROM supply_chain;
+
+-- What are the product categories?
+
+SELECT DISTINCT product FROM supply_chain;
+
+-- Demographic groups?
+
+SELECT DISTINCT gender FROM supply_chain;
+
+-- NULL values?
+
+--NONE--
