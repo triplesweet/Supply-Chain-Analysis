@@ -44,4 +44,15 @@
 
 > **Data analyst:** Use previous years of data t oestablish a predictive model for monthly revenue, category performance, leads, and stock levels.
 > > **WHY?**
-> > To prevent extreme stock levels risks in the future and improve executive presentation with Y2Y/ M2M comparisons that better simplifiy performance decreases or improvements. 
+> > To prevent extreme stock levels risks in the future and improve executive presentation with Y2Y/ M2M comparisons that better simplifiy performance decreases or improvements.
+
+
+**Table of contents**
+
+-> Exploratory Analysis
+
+-> Demographics and Segmentation
+
+-> Category Performance
+
+-> Inventory Analysis
