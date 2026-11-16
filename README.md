@@ -7,6 +7,8 @@
 
 <img width="1710" height="935" alt="Screenshot 2026-11-11 at 5 26 16 PM" src="https://github.com/user-attachments/assets/b464082f-3209-490e-a22a-8454c25f44b2" />
 
+https://github.com/user-attachments/assets/e7d2d41f-57cc-4add-8404-d3a923fe5323
+
 **About The Data**
 > This data is compiled of 100+ product codes within the beauty and skincare industry. It records each products SKU code, Price, Revenue, Availability, Total Sales, Orders, Leads, and Target Demographic.
 
